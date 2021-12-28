@@ -10,7 +10,7 @@ String url = "http://www.youtube.com/watch?v=0zM4nApSvMg&feature=feedrec_grec_in
 String videoId = VideoIDExtractor.getVideoId();
 
 ```
- Then videoID = 0zM4nApSvMg
+ *Then the value of*  **videoID** will be **0zM4nApSvMg**
 
 
 ## Tested on these urls
