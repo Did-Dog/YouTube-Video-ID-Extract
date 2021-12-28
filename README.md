@@ -7,7 +7,7 @@ Extract youtube videos id from Url or String in Java
 import diddog.youtube.*;
 
 String url = "http://www.youtube.com/watch?v=0zM4nApSvMg&feature=feedrec_grec_index";
-String videoId = VideoIDExtractor.getVideoId();
+String videoId = VideoIDExtractor.getVideoId(url);
 
 ```
  *Then the value of*  **videoID** will be **0zM4nApSvMg**
