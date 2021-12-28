@@ -31,3 +31,16 @@ String videoId = VideoIDExtractor.getVideoId();
 - https://www.youtube.com/watch?feature=youtu.be&v=_5BTo2oZ0SE&app=desktop
 - https://www.youtube.com/watch?v=nBuae6ilH24
 - https://www.youtube.com/watch?v=eLlxrBmD3H4
+
+
+## Technology Stack Used
+
+- Front End - **JAVA**  ![JAVA](https://img.shields.io/badge/frontend-java-orange.svg?logo=java&style=flat-square) 
+
+## Need help?
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@diddod.dogdid&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/diddid.dogdid)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@diddog.in&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/diddog.in/) [![YouTube](https://img.shields.io/static/v1.svg?label=connect&message=@Did-Dog&color=9cf&logo=youtube&style=flat&logoColor=white&colorA=blue)](https://m.youtube.com/channel/UCxuyWS7wdHw6hq05b75hmZg/videos) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@diddog_in&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://mobile.twitter.com/diddog_in)
+
+***Glad to see you here! Show some love by [starring](https://github.com/Did-Dog/YouTube-Video-ID-Extract) this repo.***
+
+******
